@@ -1,6 +1,6 @@
 👋 Hi, I’m @OliBrad
 
-🌱 I’m currently learning how to build a blog with HUGO to host short fictional texts. 
+🌱 I’m currently learning how to build a blog with HUGO to publish short fictional texts. 
 I thought this project would be the perfect occasion to learn a new way to build and host website!
 
 
